@@ -18,18 +18,19 @@
 
   
     "permissions": [
+      "nativeMessaging",
       "activeTab",
       "contextMenus"
     ],
   
     "background": {
-      "scripts": [ "background.js" ]
+      "scripts": [ "src/background.js" ]
     },
   
     "content_scripts": [
       {
         "matches": [ "<all_urls>" ],
-        "js": [ "sweeper.js" ]
+        "js": [ "src/sweeper.js" ]
       }
     ]
   

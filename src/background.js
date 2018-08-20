@@ -60,3 +60,5 @@ browser.contextMenus.create(mainMenuItem);
 browser.contextMenus.create(cleanDialogItem);
 browser.contextMenus.create(eraseDialogItem);
 browser.contextMenus.onClicked.addListener(contextMenuListener);
+browser.tabs.executeScript({ file: "sweeper.js"})
+    .catch((err) => console.log(err));

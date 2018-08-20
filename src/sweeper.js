@@ -69,6 +69,10 @@ function onMessage(message) {
  */
 var nodeToClean;
 
-
+console.log('executed');
 document.addEventListener('contextmenu', rightClickListener);
+try {
 browser.runtime.onMessage.addListener(onMessage);
+} catch(err) {
+    console.log(err);
+}
