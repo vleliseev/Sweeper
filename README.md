@@ -14,4 +14,4 @@ See user guide at [wiki](https://github.com/shmel3/Sweeper/wiki/User-guide) page
 Awesome flat icons used in extension are made by [freepik](https://ru.freepik.com/) community.  
 
 ## License
-[MIT public license](https://github.com/shmel3/Sweeper/blob/master/LICENSEc)
+[MIT public license](https://github.com/shmel3/Sweeper/blob/master/LICENSE)
