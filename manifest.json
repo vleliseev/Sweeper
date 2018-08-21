@@ -2,11 +2,6 @@
     "manifest_version": 2,
     "name": "Sweeper",
     "version": "0.1",
-    "developer": {
-        "name": "Vlad Eliseev",
-        "url": "https://github.com/shmel3"
-
-    },
 
     "description": "Clean blurs and erase annoying HTML popups or other elements.",
 
