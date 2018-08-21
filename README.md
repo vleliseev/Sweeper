@@ -4,7 +4,8 @@ Sweeper web extension allows to remove **HTML** popups that user is not able to 
 
 
 ## How to use?
-See user guide at [wiki](https://github.com/shmel3/Sweeper/wiki/User-guide) page.  
+* [Add](https://addons.mozilla.org/en-US/firefox/addon/sweeper/) sweeper to your browser.
+* Discover user guide at [wiki](https://github.com/shmel3/Sweeper/wiki/User-guide) page.  
 
 ## Version
 * Extension is on beta stage and may have some bugs, errors, etc.
