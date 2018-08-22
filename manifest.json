@@ -13,7 +13,6 @@
 
   
     "permissions": [
-      "nativeMessaging",
       "activeTab",
       "contextMenus"
     ],
@@ -28,5 +27,4 @@
         "js": [ "src/sweeper.js" ]
       }
     ]
-  
   }
